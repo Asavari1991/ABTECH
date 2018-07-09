@@ -1,0 +1,15 @@
+[
+    {
+        "SNo":"15",
+        "Name": "LV-WX300UST",
+        "Description": "Bright & Great Resolution, Ultra Short Throw Type",
+        "Features": "The LV-WX300UST features ultra-short throw capability at a close proximity of 28.2cm while projecting images as large as 80-inch. Given this unique ability, installation options are greatly flexible since the projector can be installed just above the screen, thus minimising shadow casted by the presenter. The LV-WX300UST is apt for usage in tight spaces or even at shopfronts for aesthetic display.",
+        
+        "Image": "assets/img/projector/15.png",
+        "Specification": [
+            "Brightness: 3000 lumens",
+            "Contrast ratio: 7500:1",
+            "High WXGA resolution (1280 x 800 pixels)"
+        ]
+    }
+]

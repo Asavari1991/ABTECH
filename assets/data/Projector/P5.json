@@ -1,0 +1,15 @@
+[
+    {
+        "SNo":"5",
+        "Name": "XEED WS520",
+        "Description": "Compact install model with WXGA resolution",
+        "Features": "The XEED WX520 is a compact install model packed with advanced technologies like the new AISYS 5.0 for better brightness, eco performance and usability. It also provides high image quality with Canon's optical and image processing technology.",
+        
+        "Image": "assets/img/projector/5.png",
+        "Specification": [ 
+            "Compact install",
+            "Lens shift models with non-interchangeable lens",
+            "5200 Lumens, WXGA+ resolution (1440 x 900)"
+        ]
+    }
+]

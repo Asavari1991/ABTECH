@@ -1,0 +1,15 @@
+[
+    {
+        "SNo":"11",
+        "Name": "LV X300",
+        "Description": "BrilliantColor™ Technology. Minimum Maintenance for Maximum Durability.",
+        "Features": "The LV-X300 is a lightweight and compact model weighing 2.5kg, making it easy to transport and set up. It features enhanced vibrant colour reproduction and lower operating cost due to its air-filter-free feature, which enables both businesses and end-users to deliver optimum results at a minimum cost.",
+        
+        "Image": "assets/img/projector/11.png",
+        "Specification": [
+            "2300:1 contrast ratio for outstanding readability",
+            "XGA (1024 x 768 pixels)",
+            "Brightness: 3000 lumens"
+        ]
+    }
+]

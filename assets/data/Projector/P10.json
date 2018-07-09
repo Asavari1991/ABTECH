@@ -1,0 +1,15 @@
+[
+    {
+        "SNo":"10",
+        "Name": "LV X320",
+        "Description": "BrilliantColor™ Technology. Minimum Maintenance for Maximum Durability.",
+        "Features": "The LV-X320 is a lightweight and compact model easy to transport and set up. This XGA widescreen features enhanced vibrant colour reproduction and lower operating cost due to its air-filter-free feature, which enables both businesses and end-users to deliver optimum results at a minimum cost.",
+        
+        "Image": "assets/img/projector/10.png",
+        "Specification": [
+            "Brightness: 3200 lumens",
+            "10000:1 contrast ratio for outstanding readability",
+            "XGA (1024 x 768 pixels)"
+        ]
+    }
+]

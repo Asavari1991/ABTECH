@@ -1,0 +1,14 @@
+[
+    {
+        "SNo":"6",
+        "Name": "XEED WUX500ST",
+        "Description": "Compact short throw model with high resolution",
+        "Features": "Canon XEED WUX500ST is a compact short-throw model featuring high resolution, high luminance and lens shift (maximum of 75%). It has a projection ratio of 0.56:1 and contrast ratio of 2000:1. Canon’s proprietary AISYS optical system helps to produce crisp, brilliant images in any given setting.",
+        
+        "Image": "assets/img/projector/6.png",
+        "Specification": [
+            "Short-throw",
+            "5000 Lumens",
+            "WUXGA resolution (1920 x 1200)]"
+    }
+]

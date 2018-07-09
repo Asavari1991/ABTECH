@@ -1,0 +1,15 @@
+[
+    {
+        "SNo":"8",
+        "Name": "XEED WUX500",
+        "Description": "Compact install high brightness model with WUXGA resolution",
+        "Features": "The XEED WUX500 is a compact install model featuring high resolution, high luminance and high contrast. These features, combined with an advanced Genuine Canon projection lens and Canon's proprietary LCOS technology with AISYS 5.0 helps to produce crisp, bright images with exceptional colour reproduction.",
+        
+        "Image": "assets/img/projector/8.png",
+        "Specification": [
+            "Compact install",
+            "Installation Convenience with 4-Point Keystone Correction and Manual Lens Shift",
+            "5000 Lumens, WUXGA resolution (1920 x 1200)"
+        ]
+    }
+]

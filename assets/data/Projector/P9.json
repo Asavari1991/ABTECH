@@ -1,0 +1,15 @@
+[
+    {
+        "SNo":"9",
+        "Name": "XEEd WUX6010",
+        "Description": "Stunning Image Quality, Wide range of Lenses for every Need",
+        "Features": "Canon XEED WUX6010 Projector features a 2000:1 contrast ratio with brightness levels of 6000 lumens and WUXGA resolution for enhanced readability. Enabling high quality projection with simple cabling that fits well in any setting. Its improved eco-performance is high in efficiency with a more sustainable life span of up to 10,000 hours.",
+        
+        "Image": "assets/img/projector/9.png",
+        "Specification": [
+            "2000:1 contrast ratio",
+            "Brightness: 6000 lumens",
+            "WUXGA (1920 x 1200 pixels)"
+        ]
+    }
+]

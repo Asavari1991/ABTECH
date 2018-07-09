@@ -1,0 +1,16 @@
+[
+    {
+        "SNo":"1",
+        "Name": "RAYO R4",
+        "Description": "Entertainment on the go",
+        "Features": "The new Mini RAYO R4 isn’t just a projector; it’s the perfect companion for both work and leisure. Light and compact, it fits perfectly into your pocket, giving you the freedom to take it anywhere.",
+        
+        "Image": "assets/img/projector/1.png",
+        "Specification": [
+            "Long Lasting Battery Life",
+            "Slim Design with Portability",
+            "Plug and Play"
+        ]
+        
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "SNo":"1",
+        "Name": "RAYO R4",
+        "Description": "Entertainment on the go. It’s the perfect companion for both work and leisure.",
+        "Features": "The new Mini RAYO R4 isn’t just a projector; it’s the perfect companion for both work and leisure. Light and compact, it fits perfectly into your pocket, giving you the freedom to take it anywhere.",
+        
+        "Image": "assets/img/projector/1.png"
+    },
+    {
+        "SNo":"2",
+        "Name": "RAYO i5",
+        "Description": "Amazing WIRELESS convenience. Plays onto virtually any surface, from smart devices.",
+        "Features": "Designed with wireless functionality, the RAYO i5 mini projectors offer user the ability to play and enlarge content to a 158” image onto virtually any surface, from smart devices.",
+        
+        "Image": "assets/img/projector/2.png"
+    },
+    {
+        "SNo":"3",
+        "Name": "LV-X300ST",
+        "Description": "Lightweight and Compact Design that delivers optimum results at a minimum cost.",
+        "Features": "The LV-X300ST is a lightweight and compact short throw WXGA widescreen projector, weighing only 2.8kg. It features enhanced vibrant colour reproduction and lower operating cost due to its air-filter-free feature, which enables both businesses and end-users to deliver optimum results at a minimum cost.",
+        
+        "Image": "assets/img/projector/3.png"
+    },
+    {
+        "SNo":"4",
+        "Name": "LV_WX300ST",
+        "Description": "Lightweight and Compact short throw design, air-filter-free feature",
+        "Features": "The LV-WX300ST is a lightweight and compact short throw WXGA widescreen projector, weighing only 2.8kg. It features enhanced vibrant colour reproduction and lower operating cost due to its air-filter-free feature, which enables both businesses and end-users to deliver optimum results at a minimum cost.",
+        
+        "Image": "assets/img/projector/4.png"
+    },
+    {
+        "SNo":"5",
+        "Name": "XEED WS520",
+        "Description": "Compact install model with WXGA resolution and high image quality with Canon's optical and image processing technology",
+        "Features": "The XEED WX520 is a compact install model packed with advanced technologies like the new AISYS 5.0 for better brightness, eco performance and usability. It also provides high image quality with Canon's optical and image processing technology.",
+        
+        "Image": "assets/img/projector/5.png"
+    },
+    {
+        "SNo":"6",
+        "Name": "XEED WUX500ST",
+        "Description": "Compact short throw model with high resolution brilliant images in any given setting",
+        "Features": "Canon XEED WUX500ST is a compact short-throw model featuring high resolution, high luminance and lens shift (maximum of 75%). It has a projection ratio of 0.56:1 and contrast ratio of 2000:1. Canon’s proprietary AISYS optical system helps to produce crisp, brilliant images in any given setting.",
+        
+        "Image": "assets/img/projector/6.png"
+    },
+    {
+        "SNo":"7",
+        "Name": "XEED 4K600STZ",
+        "Description": "Laser Projector with unrivalled 4k Resolution adaptable in any space",
+        "Features": "Canon XEED 4K600STZ Laser Projector is designed to deliver unrivalled 4k resolution and outstanding image quality with an output of 6000-lumens for a wide variety of applications. All these, crafted in a compact and lightweight design that is easy to operate, and adaptable in any space.",
+        
+        "Image": "assets/img/projector/7.png"
+    },
+    {
+        "SNo":"8",
+        "Name": "XEED WUX500",
+        "Description": "Compact install high brightness model with WUXGA resolution give bright images with exceptional colour reproduction.",
+        "Features": "The XEED WUX500 is a compact install model featuring high resolution, high luminance and high contrast. These features, combined with an advanced Genuine Canon projection lens and Canon's proprietary LCOS technology with AISYS 5.0 helps to produce crisp, bright images with exceptional colour reproduction.",
+        
+        "Image": "assets/img/projector/8.png"
+    },
+    {
+        "SNo":"9",
+        "Name": "XEEd WUX6010",
+        "Description": "Stunning Image Quality, Wide range of Lenses for every Need",
+        "Features": "Canon XEED WUX6010 Projector features a 2000:1 contrast ratio with brightness levels of 6000 lumens and WUXGA resolution for enhanced readability. Enabling high quality projection with simple cabling that fits well in any setting. Its improved eco-performance is high in efficiency with a more sustainable life span of up to 10,000 hours.",
+        
+        "Image": "assets/img/projector/9.png"
+    },
+    {
+        "SNo":"10",
+        "Name": "LV X320",
+        "Description": "BrilliantColor™ Technology. Minimum Maintenance for Maximum Durability.",
+        "Features": "The LV-X320 is a lightweight and compact model easy to transport and set up. This XGA widescreen features enhanced vibrant colour reproduction and lower operating cost due to its air-filter-free feature, which enables both businesses and end-users to deliver optimum results at a minimum cost.",
+        
+        "Image": "assets/img/projector/10.png"
+    },
+    {
+        "SNo":"11",
+        "Name": "LV X300",
+        "Description": "BrilliantColor™ Technology. Minimum Maintenance for Maximum Durability.",
+        "Features": "The LV-X300 is a lightweight and compact model weighing 2.5kg, making it easy to transport and set up. It features enhanced vibrant colour reproduction and lower operating cost due to its air-filter-free feature, which enables both businesses and end-users to deliver optimum results at a minimum cost.",
+        
+        "Image": "assets/img/projector/11.png"
+    },
+    {
+        "SNo":"12",
+        "Name": "XEED WX6500",
+        "Description": "Exceptional Image Quality. extensive Lens Solution.",
+        "Features": "Canon XEED WUX6500 Projector features a 2000 : 1 contrast ratio with brightness levels of 6500 lumens and WUXGA (1920 x 1200) resolution enables high resolution and brightness to create sharp, rich, exceptional contrast and outstanding color projection. ",
+        
+        "Image": "assets/img/projector/12.png"
+    },
+    {
+        "SNo":"13",
+        "Name": "LV-WX300USTi",
+        "Description": "Bright & Great Resolution, Ultra Short Throw Type",
+        "Features": "Equipped with a built-in camera, the LV-WX300USTi offers ultra short throw capability at a close proximity of 28.2cm and unique interactive functions which turn any surface to an engaging and collaborative workspace.",
+        
+        "Image": "assets/img/projector/13.png"
+    },
+    {
+        "SNo":"14",
+        "Name": "LV-WX320",
+        "Description": "BrilliantColor™ Technology. Minimum Maintenance for Maximum Durability.",
+        "Features": "The LV-WX320 is a lightweight and compact model weighing 2.5kg, making it easy to transport and set up. This WXGA widescreen model also features enhanced vibrant colour reproduction and lower operating cost due to its air-filter-free feature, which enables both businesses and end-users to deliver optimum results at a minimum cost.",
+        
+        "Image": "assets/img/projector/14.png"
+    },
+    {
+        "SNo":"15",
+        "Name": "LV-WX300UST",
+        "Description": "Bright & Great Resolution, Ultra Short Throw Type",
+        "Features": "The LV-WX300UST features ultra-short throw capability at a close proximity of 28.2cm while projecting images as large as 80-inch. Given this unique ability, installation options are greatly flexible since the projector can be installed just above the screen, thus minimising shadow casted by the presenter. The LV-WX300UST is apt for usage in tight spaces or even at shopfronts for aesthetic display.",
+        
+        "Image": "assets/img/projector/15.png"
+    }
+]

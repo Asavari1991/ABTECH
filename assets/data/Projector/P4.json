@@ -1,0 +1,15 @@
+[
+    {
+        "SNo":"4",
+        "Name": "LV_WX300ST",
+        "Description": "Lightweight and Compact short throw design",
+        "Features": "The LV-WX300ST is a lightweight and compact short throw WXGA widescreen projector, weighing only 2.8kg. It features enhanced vibrant colour reproduction and lower operating cost due to its air-filter-free feature, which enables both businesses and end-users to deliver optimum results at a minimum cost.",
+        
+        "Image": "assets/img/projector/4.png",
+        "Specification": [
+            "2300:1 contrast ratio for outstanding readability",
+            "XGA (1024 x 768 pixels)",
+            "Brightness: 3000 lumens"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "SNo":"14",
+        "Name": "LV-WX320",
+        "Description": "BrilliantColor™ Technology. Minimum Maintenance for Maximum Durability.",
+        "Features": "The LV-WX320 is a lightweight and compact model weighing 2.5kg, making it easy to transport and set up. This WXGA widescreen model also features enhanced vibrant colour reproduction and lower operating cost due to its air-filter-free feature, which enables both businesses and end-users to deliver optimum results at a minimum cost.",
+        
+        "Image": "assets/img/projector/14.png",
+        "Specification": [
+            "10000:1 contrast ratio for outstanding readability",
+            "Brightness: 3200 lumens",
+            "WXGA (1280 x 800 pixels)"
+        ]
+    }
+]

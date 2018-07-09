@@ -1,0 +1,15 @@
+[
+    {
+        "SNo":"7",
+        "Name": "XEED 4K600STZ",
+        "Description": "Laser Projector with unrivalled 4k Resolution",
+        "Features": "Canon XEED 4K600STZ Laser Projector is designed to deliver unrivalled 4k resolution and outstanding image quality with an output of 6000-lumens for a wide variety of applications. All these, crafted in a compact and lightweight design that is easy to operate, and adaptable in any space.",
+        
+        "Image": "assets/img/projector/7.png",
+        "Specification": [
+            "6000 lumens, 4K resolution (4096 x 2400 pixels)",
+            "Lens shift models with short-throw non-interchangeable lens",
+            "Compact and lightweight laser 4K projector"
+        ]
+    }
+]

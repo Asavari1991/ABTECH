@@ -1,0 +1,15 @@
+[
+    {
+        "SNo":"13",
+        "Name": "LV-WX300USTi",
+        "Description": "Bright & Great Resolution, Ultra Short Throw Type",
+        "Features": "Equipped with a built-in camera, the LV-WX300USTi offers ultra short throw capability at a close proximity of 28.2cm and unique interactive functions which turn any surface to an engaging and collaborative workspace.",
+        
+        "Image": "assets/img/projector/13.png",
+        "Specification": [
+            "Brightness: 3000 lumens",
+            "High WXGA resolution (1280 x 800 pixels)",
+            "Built-in interactive function"
+        ]
+    }
+]
